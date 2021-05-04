@@ -1,5 +1,10 @@
 package interfaceAbstractDemo;
 
+import interfaceAbstractDemo.Abstract.BaseCustomerManager;
+import interfaceAbstractDemo.Concrete.CustomerCheckManager;
+import interfaceAbstractDemo.Concrete.StarbucksCustomerManager;
+import interfaceAbstractDemo.Entities.Customer;
+
 public class Main {
 
 	public static void main(String[] args) {

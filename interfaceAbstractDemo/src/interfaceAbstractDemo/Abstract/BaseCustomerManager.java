@@ -1,4 +1,6 @@
-package interfaceAbstractDemo;
+package interfaceAbstractDemo.Abstract;
+
+import interfaceAbstractDemo.Entities.Customer;
 
 public abstract class BaseCustomerManager implements CustomerService {
 

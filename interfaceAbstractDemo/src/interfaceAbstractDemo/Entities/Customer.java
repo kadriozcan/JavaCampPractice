@@ -1,4 +1,4 @@
-package interfaceAbstractDemo;
+package interfaceAbstractDemo.Entities;
 
 public class Customer {
 	private int id;
